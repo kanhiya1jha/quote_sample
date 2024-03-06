@@ -1,0 +1,1 @@
+ /Users/kj00841850/Documents/quotesample/quote_sample/.dart_tool/flutter_build/79d7ce4f2a63f414d701f232e06f14e4/native_assets.yaml: 
